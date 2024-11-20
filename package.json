@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon node server.js",
-    "secure": "nodemon node secureServer.js",
+    "start": "nodemon node clientServer.js",
+    "secure": "nodemon node secureApi.js",
     "obfuscate": "nodemon node obfuscationServer.js"
   },
   "author": "",
