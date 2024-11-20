@@ -10,8 +10,8 @@ const PORT = process.env.PORT || 3000;
 const APP_TOKEN = "secret";
 const SECRET_KEY = APP_TOKEN; // plus simple pour la gestion des tokens. Comme ça, on peut valider le token dans toutes nos applications.
 let motDouxEnCache = "Passes une belle journée!";
-const SECURE_SERVER_URL = "https://db.sec.edwrdl.ca:3001/authenticate";
-const TOKENIZER_SERVER_URL = "https://db.sec.edwrdl.ca:3002/creditCard";
+const SECURE_SERVER_URL = "http://localhost:3001/authenticate";
+const TOKENIZER_SERVER_URL = "http://localhost:3002/creditCard";
 
 app.use(bodyParser.json());
 

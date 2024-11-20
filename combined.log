@@ -22,3 +22,4 @@
 {"level":"info","message":"Tokenized credit card for user admin: {\"username\":\"admin\",\"number\":\"4540-4848-7378-4863\",\"password\":\"qwerty\",\"exp\":\"08/2025\",\"cvv\":\"778\"}"}
 {"level":"info","message":"Tokenized credit card for user admin: {\"username\":\"admin\",\"number\":\"4540-4848-7378-4863\",\"password\":\"qwerty\",\"exp\":\"08/2025\",\"cvv\":\"778\"}"}
 {"level":"info","message":"Tokenized credit card for user admin: {\"username\":\"admin\",\"number\":\"4540-4848-7378-4863\",\"password\":\"qwerty\",\"exp\":\"08/2025\",\"cvv\":\"778\"}"}
+{"level":"info","message":"Obfuscated credit card for user and his private informations, do not share admin: {\"username\":\"admin\",\"number\":\"4540-4848-7378-4863\",\"password\":\"qwerty\",\"exp\":\"08/2025\",\"cvv\":\"778\"}"}
