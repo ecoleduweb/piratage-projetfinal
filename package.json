@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon node server.js",
     "secure": "nodemon node secureServer.js",
-    "tokenisation": "nodemon node tokenisationServer.js"
+    "obfuscate": "nodemon node obfuscationServer.js"
   },
   "author": "",
   "license": "ISC",
